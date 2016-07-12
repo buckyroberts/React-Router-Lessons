@@ -1,6 +1,6 @@
-# React Router Lessons
+![](http://i.imgur.com/vasUEBw.png)
 
-Tutorial and snippets for React Router.
+Source code and project files from thenewboston React-Router tutorial.
 
 ## Getting Started
 
