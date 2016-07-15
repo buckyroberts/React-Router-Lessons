@@ -6,6 +6,7 @@ module.exports = {
     devServer: {
         inline: true,
         contentBase: './src',
+        historyApiFallback: true,
         port: 3000
     },
     module: {
